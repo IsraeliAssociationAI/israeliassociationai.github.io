@@ -18,6 +18,7 @@ permalink           : "/events/"
   Notice that membership in IAAI is required. If you are not yet a member, please become one:
 [IAAI membership](https://iaai.org.il/membership/)
 
+  Organizers: [Dor Atzmon](https://cris.biu.ac.il/en/persons/dor-atzmon/) and [Yoni Zohar](https://u.cs.biu.ac.il/~zoharyo1/)
   
 ## Past Events
 * [IAAI 2024](https://iaai24.net.technion.ac.il/), the annual IAAI conference, was held on September 24th, 2024, at the College of Management Academic Studies, Rishon LeTsiyon.
