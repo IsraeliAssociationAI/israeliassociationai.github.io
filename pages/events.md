@@ -10,11 +10,18 @@ permalink           : "/events/"
 
 
 ## Future Events
+* [BISFAI 2025](https://iaai24.net.technion.ac.il/), the biennial Bar-Ilan Symposium on the Foundations of AI, will take place on September 9th and 10th, 2025, at Bar-Ilan University.
+
+Registration is open, and so is submission for contributions:
+[Registration and contributions](https://forms.gle/vuujPagJDLQyaTB98/)
+
+Notice that membership in IAAI is required. If you are not yet a member, please become one:
+[IAAI membership](https://iaai.org.il/membership/)
 
   
 ## Past Events
-* [IAAI 2024](https://iaai24.net.technion.ac.il/), the annual IAAI conference, will take place September 24th, 2024, at the College of Management Academic Studies, Rishon LeTsiyon
+* [IAAI 2024](https://iaai24.net.technion.ac.il/), the annual IAAI conference, was held on September 24th, 2024, at the College of Management Academic Studies, Rishon LeTsiyon.
 
-* [BISFAI 2023](https://cs.biu.ac.il/bisfai),  the biennial Bar Ilan Symposium on the Foundations of AI will be held February 1st and 2nd, 2023 at Bar Ilan University. For more details, visit 
+* [BISFAI 2023], the biennial Bar-Ilan Symposium on the Foundations of AI, was held on February 1st and 2nd, 2023, at Bar-Ilan University.
 
-* [IAAI Conference 2022](https://iaai22.net.technion.ac.il/)
+* [IAAI 2022](https://iaai22.net.technion.ac.il/), the anual IAAI conference, was held on June 16th, 2022, at the IBM Research Labs, Haifa.
