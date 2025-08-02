@@ -12,10 +12,10 @@ permalink           : "/events/"
 ## Future Events
 * [BISFAI 2025](https://sites.google.com/view/bisfai25), the biennial Bar-Ilan Symposium on the Foundations of AI, will take place on September 9th and 10th, 2025, at Bar-Ilan University.
 
-Registration is open, and so is submission for contributions:
+  Registration is open, and so is submission for contributions:
 [Registration and contributions](https://forms.gle/vuujPagJDLQyaTB98/)
 
-Notice that membership in IAAI is required. If you are not yet a member, please become one:
+  Notice that membership in IAAI is required. If you are not yet a member, please become one:
 [IAAI membership](https://iaai.org.il/membership/)
 
   
