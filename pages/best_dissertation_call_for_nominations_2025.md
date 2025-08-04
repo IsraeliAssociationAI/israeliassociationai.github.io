@@ -1,11 +1,10 @@
-
 ---
 layout              : page
 title               : "Call for Nominations -- IAAI Best PhD Thesis Award 2025"
 meta_title          : "Call for Nominations"
 subheadline         : "IAAI Best PhD Thesis Award 2025"
 teaser              : "How can I nominate someone for the IAAI Best PhD Thesis Award?"
-permalink           : "/best_dissertation_call_for_nominations/"
+permalink           : "/best_dissertation_call_for_nominations_2025/"
 ---
 
 
