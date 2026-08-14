@@ -10,7 +10,7 @@ permalink           : "/events/"
 
 
 ## Future Events
-*  The Israeli Association for Artificial Intelligence (IAAI) invites its members and the Israeli AI community to the **National Computer Science Conference 2026**, taking place on **Thursday, October 8**, 2026, at Ben-Gurion University of the Negev, celebrating the establishment of the **Stein Faculty of Computer and Information Sciences**.
+The Israeli Association for Artificial Intelligence (IAAI) invites its members and the Israeli AI community to the **National Computer Science Conference 2026**, taking place on **Thursday, October 8**, 2026, at Ben-Gurion University of the Negev, celebrating the establishment of the **Stein Faculty of Computer and Information Sciences**.
 
 The conference will focus on **“Transformations Following the Rise of Artificial Intelligence”** and will feature a dedicated [**AI Session**](https://conferences.bgu.ac.il/cs2026/artificial) with invited talks by leading researchers, as well as a poster session showcasing recent student research.
 
