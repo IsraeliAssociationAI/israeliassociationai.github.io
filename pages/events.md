@@ -24,7 +24,9 @@ IAAI membership is not required to attend the conference. However, we encourage 
 [Join or renew your IAAI membership](https://iaai.org.il/membership/)
 
 **Date:** Thursday, October 8, 2026
+
 **Location:** Ben-Gurion University of the Negev
+
 **Conference website and registration:** [https://conferences.bgu.ac.il/cs2026](https://conferences.bgu.ac.il/cs2026)
 
 ## Past Events
