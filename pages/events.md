@@ -10,17 +10,26 @@ permalink           : "/events/"
 
 
 ## Future Events
-* [BISFAI 2025](https://sites.google.com/view/bisfai25), the biennial Bar-Ilan Symposium on the Foundations of AI, will take place on September 9th and 10th, 2025, at Bar-Ilan University.
+*  The Israeli Association for Artificial Intelligence (IAAI) invites its members and the Israeli AI community to the **National Computer Science Conference 2026**, taking place on **Thursday, October 8**, 2026, at Ben-Gurion University of the Negev, celebrating the establishment of the **Stein Faculty of Computer and Information Sciences**.
 
-  Registration is open, and so is submission for contributions:
-[Registration and contributions](https://forms.gle/vuujPagJDLQyaTB98/)
+The conference will focus on **“Transformations Following the Rise of Artificial Intelligence”** and will feature a dedicated [**AI Session**](https://conferences.bgu.ac.il/cs2026/artificial) with invited talks by leading researchers, as well as a poster session showcasing recent student research.
 
-  Notice that membership in IAAI is required. If you are not yet a member, please become one:
-[IAAI membership](https://iaai.org.il/membership/)
+The **annual meeting of the Israeli Association for Artificial Intelligence (IAAI)** will take place as part of the AI Session.
 
-  Organizers: [Dor Atzmon](https://cris.biu.ac.il/en/persons/dor-atzmon/) and [Yoni Zohar](https://u.cs.biu.ac.il/~zoharyo1/)
-  
+We invite the Israeli AI community to join us for this special event.
+
+**Participation is free of charge, but advance registration is required.**
+
+IAAI membership is not required to attend the conference. However, we encourage members of the Israeli AI community to **support IAAI** by joining the association or renewing their membership.
+[Join or renew your IAAI membership](https://iaai.org.il/membership/)
+
+**Date:** Thursday, October 8, 2026
+**Location:** Ben-Gurion University of the Negev
+**Conference website and registration:** [https://conferences.bgu.ac.il/cs2026](https://conferences.bgu.ac.il/cs2026)
+
 ## Past Events
+* [BISFAI 2025](https://sites.google.com/view/bisfai25), the biennial Bar-Ilan Symposium on the Foundations of AI, was held on September 9th and 10th, 2025, at Bar-Ilan University.
+
 * [IAAI 2024](https://iaai24.net.technion.ac.il/), the annual IAAI conference, was held on September 24th, 2024, at the College of Management Academic Studies, Rishon LeTsiyon.
 
 * BISFAI 2023, the biennial Bar-Ilan Symposium on the Foundations of AI, was held on February 1st and 2nd, 2023, at Bar-Ilan University.
