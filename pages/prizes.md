@@ -20,7 +20,7 @@ Please see the [Call for Nominations for the IAAI Best PhD Thesis Award 2025](ht
 
 * 2025
   * Winner: Dr. Saar Cohen, Bar-Ilan University. PhD thesis: Coalition Formation in Sequential Decision-Making under Uncertainty. Advised by Prof. Noa Agmon.
-  * Runner-up: Dr. Hadas Orgad, Tel-Aviv University. PhD thesis: On the Robustness of AI Models: Explanations ,Evaluations, and Improvements. Advised by Prof. Yonatan Belinkov​
+  * Runner-up: Dr. Hadas Orgad, Tel Aviv University. PhD thesis: On the Robustness of AI Models: Explanations ,Evaluations, and Improvements. Advised by Prof. Yonatan Belinkov​
   * Committee members:  Roni Stern, Idan Szpektor
   * Prize sponsored by Google
 
