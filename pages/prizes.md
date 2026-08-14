@@ -16,6 +16,7 @@ The call for Nominations for the IAAI Best PhD Thesis Award 2026 will be publish
 <!--
 Please see the [Call for Nominations for the IAAI Best PhD Thesis Award 2025](https://iaai.org.il/best_dissertation_call_for_nominations_2025/).
 //-->
+
 <b>Past winners:</b>
 
 * 2025
