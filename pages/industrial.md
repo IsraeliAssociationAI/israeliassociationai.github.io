@@ -13,7 +13,7 @@ The IAAI Industrial Advisory Board consists of prominent AI researchers working 
 The members of the board are:
 * Segev Wasserkrug, IBM
 * David Carmel, Amazon
-* Claudia Goldman, GM
+* Or Litany, NVIDIA
 * Itay Naeh, Rafael
 * Idan Szpektor, Google
 
