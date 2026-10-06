@@ -4,7 +4,7 @@ title               : "ISFAI 2027"
 meta_title          : "ISFAI 2027"
 subheadline         : "The Israeli Symposium on the Foundations of Artificial Intelligence"
 teaser              : "ISFAI 2027"
-permalink           : "/isfai2027/"
+permalink           : "/ISFAI2027/"
 ---
 
 <div style="text-align: center; padding: 35px 20px; margin-bottom: 30px; background: #f2f2f2; border-radius: 4px;">
