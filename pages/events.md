@@ -10,7 +10,7 @@ permalink           : "/events/"
 
 
 ## Future Events
-* [ISFAI 2027](ISFAI2027.md), the annual IAAI conference, will be held on February 10th, 2027, at the Technion – Israel Institute of Technology, Haifa.
+* [ISFAI 2027](/ISFAI2027.md/), the annual IAAI conference, will be held on February 10th, 2027, at the Technion – Israel Institute of Technology, Haifa.
 
 * [National Computer Science Conference 2026](https://conferences.bgu.ac.il/cs2026), featuring the annual meeting of the Israeli Association for Artificial Intelligence (IAAI), will be held on October 8th, 2026, at Ben-Gurion University of the Negev.
 
