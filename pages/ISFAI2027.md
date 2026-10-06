@@ -41,13 +41,13 @@ Further registration and submission details will be announced soon.
 Technion – Israel Institute of Technology  
 Haifa, Israel
 
-### Map
+<!--  ### Map
 
-<!-- Replace the placeholder below with a map or venue image later. -->
+Replace the placeholder below with a map or venue image later.
 
 <div style="text-align: center; padding: 60px 20px; margin: 20px 0; background: #f2f2f2; border: 1px solid #cccccc;">
   <strong>Venue map will be added here</strong>
-</div>
+</div> -->
 
 ## Organizers
 
