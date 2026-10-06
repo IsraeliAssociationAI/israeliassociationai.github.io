@@ -10,7 +10,12 @@ permalink           : "/events/"
 
 
 ## Future Events
-* The Israeli Association for Artificial Intelligence (IAAI) invites its members and the Israeli AI community to the **National Computer Science Conference 2026**, taking place on **Thursday, October 8**, 2026, at Ben-Gurion University of the Negev, celebrating the establishment of the **Stein Faculty of Computer and Information Sciences**.
+* [ISFAI 2027](ISFAI2027.md), the annual IAAI conference, will be held on February 10th, 2027, at the Technion – Israel Institute of Technology, Haifa.
+
+* [National Computer Science Conference 2026](https://conferences.bgu.ac.il/cs2026), featuring the annual meeting of the Israeli Association for Artificial Intelligence (IAAI), will be held on October 8th, 2026, at Ben-Gurion University of the Negev.
+
+
+<!---The Israeli Association for Artificial Intelligence (IAAI) invites its members and the Israeli AI community to the **National Computer Science Conference 2026**, taking place on **Thursday, October 8**, 2026, at Ben-Gurion University of the Negev, celebrating the establishment of the **Stein Faculty of Computer and Information Sciences**.
 
 The conference will focus on **“Transformations Following the Rise of Artificial Intelligence”** and will feature a dedicated [**AI Session**](https://conferences.bgu.ac.il/cs2026/artificial) with invited talks by leading researchers, as well as a poster session showcasing recent student research.
 
@@ -28,6 +33,7 @@ IAAI membership is not required to attend the conference. However, we encourage 
 **Location:** Ben-Gurion University of the Negev
 
 **Conference website and registration:** [https://conferences.bgu.ac.il/cs2026](https://conferences.bgu.ac.il/cs2026)
+--->
 
 ## Past Events
 * [BISFAI 2025](https://sites.google.com/view/bisfai25), the biennial Bar-Ilan Symposium on the Foundations of AI, was held on September 9th and 10th, 2025, at Bar-Ilan University.
