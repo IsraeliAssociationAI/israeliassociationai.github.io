@@ -21,19 +21,29 @@ The symposium provides a forum for presenting and discussing recent research acr
 
 ISFAI 2027 will be held on **February 10, 2027**, at the **Faculty of Data and Decision Sciences, Technion – Israel Institute of Technology, Haifa**.
 
-## Registration
-
-Participation in ISFAI 2027 requires advance registration.
-
-**[Registration and submission – TBD](#)**
-
-Further registration and submission details will be announced soon.
-
 ## Important Dates
 
 * **Registration and submission deadline:** December 25, 2026
 * **Notification:** January 15, 2027
 * **ISFAI:** February 10, 2027
+
+## Registration
+
+Participation in ISFAI 2027 requires advance registration.
+
+**[Registration form](https://forms.gle/KLQfN2CppX8YjZse7)**
+
+The registration deadline is **December 25, 2026**.
+
+## Submission
+
+Participants are invited to submit their work for presentation at ISFAI 2027.
+
+**[Submission form – TBD](#)**
+
+The submission deadline is **December 25, 2026**.
+
+**Please note:** Registration is mandatory for all participants, including those submitting work. Completing the submission form does not constitute registration; authors must also complete the [registration form](https://forms.gle/KLQfN2CppX8YjZse7).
 
 ## Venue
 
