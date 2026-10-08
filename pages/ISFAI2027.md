@@ -33,6 +33,8 @@ Participation in ISFAI 2027 requires advance registration.
 
 **[Registration form](https://forms.gle/KLQfN2CppX8YjZse7)**
 
+Registration is **free**, but an active **[IAAI membership](https://iaai.org.il/membership/)** is required.
+
 The registration deadline is **December 25, 2026**.
 
 ## Submission
