@@ -34,6 +34,7 @@ Please see the [Call for Nominations for the IAAI Best PhD Thesis Award 2026](ht
   * Winner: Yonatan Slutzky, Yotam Alexander, Noam Razin, and Nadav Cohen. [The Implicit Bias of Structured State Space Models Can Be Poisoned With Clean Labels](https://arxiv.org/abs/2410.10473).
   * Honorable mention: Rom Himelstein, Amit LeVi, Brit Youngmann, Yaniv Nemcovsky, and Avi Mendelson. [Silenced Biases: The Dark Side LLMs Learned to Refuse](https://arxiv.org/abs/2511.03369).
   * Honorable mention: Ofir Cohen, Gil Ari Agmon, Asaf Shabtai, and Rami Puzis. [LISAA: A Framework for Large Language Model Information Security Awareness Assessment](https://arxiv.org/abs/2411.13207).
+  * Prize sponsored by ALTER.
 
 <b>IAAI Best PhD Thesis Award:</b>
 
