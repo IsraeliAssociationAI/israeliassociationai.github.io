@@ -14,9 +14,12 @@ permalink           : "/prizes/"
 
 Please see the [Call for Nominations for the 2026 Israeli AI Safety Research Prize](https://iaai.org.il/AI_safety_call_for_nominations_2026/).
 
+Deadline: December 30th, 2026.
+
 ## IAAI Best PhD Thesis Award ##
 
 The Israeli Association for Artificial Intelligence (IAAI) established the IAAI Doctoral Dissertation Award program in 2018 to recognize superior research and writing by doctoral candidates in Israel studying Artificial Intelligence.
+
 Details about the IAAI Best PhD Thesis Award 2027 will be published soon.
 
 <!--
