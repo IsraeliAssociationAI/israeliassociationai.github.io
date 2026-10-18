@@ -10,7 +10,7 @@ permalink           : "/events/"
 
 
 ## Future Events
-* [ISFAI 2027](/events/ISFAI2027/), the annual IAAI conference, will be held on February 10th, 2027, at the Technion – Israel Institute of Technology, Haifa.
+* [ISFAI 2027](/events/ISFAI2027/), the annual Israeli Symposium on the Foundations of AI, will be held on February 10th, 2027, at the Technion – Israel Institute of Technology, Haifa.
 
 
 
