@@ -28,6 +28,7 @@ Please see the [Call for Nominations for the IAAI Best PhD Thesis Award 2026](ht
 
 ## Past Winners ##
 
+
 <b>Israeli AI Safety Research Prize:</b>
 
 * 2025
