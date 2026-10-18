@@ -1,4 +1,3 @@
-<img width="261" height="90" alt="image" src="https://github.com/user-attachments/assets/1b2f3119-8295-4226-97f5-72e5ddd03e88" />---
 layout              : page
 title               : "Prizes"
 meta_title          : "Prizes"
