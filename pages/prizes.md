@@ -19,7 +19,7 @@ Please see the [Call for Nominations for the 2026 Israeli AI Safety Research Pri
 The Israeli Association for Artificial Intelligence (IAAI) established the IAAI Doctoral Dissertation Award program in 2018 to recognize superior research and writing by doctoral candidates in Israel studying Artificial Intelligence.
 Details about the IAAI Best PhD Thesis Award 2027 will be published soon.
 
-<--
+<!--
 Please see the [Call for Nominations for the IAAI Best PhD Thesis Award 2026](https://iaai.org.il/best_dissertation_call_for_nominations_2026/).
 -->
 
