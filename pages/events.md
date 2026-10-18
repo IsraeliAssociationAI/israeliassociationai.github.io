@@ -10,7 +10,7 @@ permalink           : "/events/"
 
 
 ## Future Events
-* [ISFAI 2027](/events/ISFAI2027/), the annual Israeli Symposium on the Foundations of AI, will be held on February 10th, 2027, at the Technion – Israel Institute of Technology, Haifa.
+* [ISFAI 2027](https://iaai.org.il/events/ISFAI2027), the annual Israeli Symposium on the Foundations of AI, will be held on February 10th, 2027, at the Technion – Israel Institute of Technology, Haifa.
 
 
 
@@ -23,4 +23,4 @@ permalink           : "/events/"
 
 * [BISFAI 2023](https://sites.google.com/view/bisfai-2023), the biennial Bar-Ilan Symposium on the Foundations of AI, was held on February 1st and 2nd, 2023, at Bar-Ilan University.
 
-* [IAAI 2022](https://iaai22.net.technion.ac.il/), the anual IAAI conference, was held on June 16th, 2022, at the IBM Research Labs, Haifa.
+* [IAAI 2022](https://iaai22.net.technion.ac.il), the anual IAAI conference, was held on June 16th, 2022, at the IBM Research Labs, Haifa.
