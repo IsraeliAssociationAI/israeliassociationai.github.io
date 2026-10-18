@@ -23,7 +23,7 @@ Details about the IAAI Best PhD Thesis Award 2027 will be published soon.
 Please see the [Call for Nominations for the IAAI Best PhD Thesis Award 2026](https://iaai.org.il/best_dissertation_call_for_nominations_2026/).
 -->
 
-## Past winners ##
+## Past Winners ##
 
 <b>Israeli AI Safety Research Prize:</b>
 
