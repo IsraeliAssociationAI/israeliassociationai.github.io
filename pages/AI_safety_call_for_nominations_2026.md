@@ -8,7 +8,7 @@ permalink           : "/AI_safety_call_for_nominations_2026/"
 ---
 
 
-## Deadline: October 30th, 2026
+## Deadline: December 30th, 2026
 
 ​
 [The Association for Long Term Existence & Resilience (ALTER)](https://alter.org.il/), together with the Israeli Association for Artificial Intelligence (IAAI), established the Israeli AI Safety Research Prize in 2025 to promote research on AI safety.
