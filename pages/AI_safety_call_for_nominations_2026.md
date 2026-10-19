@@ -24,4 +24,4 @@ To be considered, you must submit the following items (as a PDF file):
 The selection will be based on the work’s originality, impact, importance for safety, and written quality. Work that has been submitted to and/or accepted at workshops, conferences, or journals will be considered more favorably. Finally, the committee will consider the quality of the written document. The jury’s decision is final.
 
 ​
-Nominations can be uploaded at this [link](https://openreview.net/group/edit?id=IAAI.org.il/2027/Safety_Research_Prize).  
+Nominations can be uploaded at [https://openreview.net/group/edit?id=IAAI.org.il/2027/Safety_Research_Prize](https://openreview.net/group?id=IAAI.org.il/2027/Safety_Research_Prize).  
